@@ -1133,7 +1133,6 @@ b=a.iloc[0:28,28:32]
 
 ```
 
-![Untitled](python%20code%2090fb75a4ccfa417995540512c6e7b33a/Untitled.png)
 
 ```python
 #相關性分析
@@ -1148,7 +1147,7 @@ c1 = sns.heatmap(b, annot = True, vmax = 1)
 plt.savefig("rawrelation_0412.png", dpi=800)
 ```
 
-![Untitled](python%20code%2090fb75a4ccfa417995540512c6e7b33a/Untitled%201.png)
+
 
 ## 實驗檔案位置
 
