@@ -19,7 +19,7 @@
         -  Network parameters such as ping, server bandwidth, client bandwidth, link bandwidth, packet loss rate.
         -  Frame parameters are frame size, frame age, capture time, encode time, transfer time, decode time, and complete time.
    
-![image]
+![image](系統架構圖.png)
 ## 2. Feature engineering
 ### Organize Data
 #### Screenshot 
@@ -833,7 +833,7 @@ plt.subplots(figsize=(10,10)) #設置長寬尺吋大小
 c1 = sns.heatmap(b, annot = True, vmax = 1,cmap="Blues")
 plt.savefig("rawrelation_0412.png", dpi=800)
 ```
-![cor_plot](https://hackmd.io/_uploads/By82buisA.png)
+![](cor_plot.png)
 
 
 ### XGBoost Model
