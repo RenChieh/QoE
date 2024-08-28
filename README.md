@@ -6,7 +6,7 @@
     - Subjective QoE measures service quality from the user's perspective
     - Objective QoE through network loading delay, lag time, resolution, frame rate(frame per second, FPS) parameters to evaluate network quality
 ## Research Method Structure
-![image]
+![image](研究架構圖.jpeg)
 
 ## 1. Data Acquisition
 - **Subjective QoE:** 
